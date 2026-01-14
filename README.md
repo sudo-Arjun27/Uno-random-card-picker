@@ -5,3 +5,5 @@ Using the tkinter library, the interface features a button that generates four a
 Additionally, the program classifies cards by rarity (common, rare, wild) and integrates images for a visually engaging experience.
 By clicking the button, users can view the cards displayed as images with their corresponding rarity. 
 This project demonstrates practical GUI design, randomization, and file management in Python.
+
+This is old and needs updating. In order to proceed, i will rewrite the entire code and make a fresh set
