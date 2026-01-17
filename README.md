@@ -7,3 +7,6 @@ By clicking the button, users can view the cards displayed as images with their 
 This project demonstrates practical GUI design, randomization, and file management in Python.
 
 This is old and needs updating. In order to proceed, i will rewrite the entire code and make a fresh set
+
+
+Day 01- Remade the code for taking input as the number and picking randomly from the array of the uno card types
