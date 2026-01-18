@@ -10,3 +10,5 @@ This is old and needs updating. In order to proceed, i will rewrite the entire c
 
 
 Day 01- Remade the code for taking input as the number and picking randomly from the array of the uno card types
+
+Day 02- dealt with pygui for enhancing the Gui of the current project
